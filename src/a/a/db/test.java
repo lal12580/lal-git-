@@ -1,6 +1,7 @@
 package a.a.db;
 
-public class test {
+public class test
+{
     @Override
     public String toString() {
         return "test{}";
